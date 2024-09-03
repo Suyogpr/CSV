@@ -1,0 +1,4 @@
+_id,firstName,lastName,email,password,gender,dob,__v
+"""66bafaea2c73140f616beb60""",Ram,Bahadur,ram@gmail.com,password,male,1722124800000,0
+"""66cc23b064b82bf78166362b""",Suyog,Pradhan,sp@hotmail.com,abcdef,male,2001-1-18,0
+"""66cc24eb0c21a0ff6ddbd686""",John,Doe,jd@hotmail.com,jdoe,male,1992-10-5,0
